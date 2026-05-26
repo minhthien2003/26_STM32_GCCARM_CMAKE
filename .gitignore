@@ -1,3 +1,4 @@
 I2CTest/build/*
 !Build.bat
 !ConfigDebug.bat
+!ConfigBuildRelease.bat
